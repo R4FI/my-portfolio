@@ -1,0 +1,59 @@
+ .medium{
+
+ 		font-size: 30px;
+ 		font-weight: bold;
+ }
+  .boro{
+
+  	font-weight: bold;
+  	font-family: sans-serif;
+  }
+ .chuto{
+
+ 	font-family: sans-serif;
+ }
+
+p{
+
+	font-size: 25px;
+}
+
+h1{
+
+	font-size: 30px;
+}
+section
+{
+	display: flex;
+}
+.photo{
+
+	width: 100%;
+
+	padding-left: 15%;
+}
+
+.photo img{
+
+	margin-top: -115px;
+}
+
+.link-button{
+
+	text-decoration: none;
+	background-color: orange;
+	padding: 10px 40px;
+	border-radius: 5px;
+	background-image: linear-gradient(orange, tomato);
+	color: white;
+	font-weight: bold;
+	font-family: sans-serif;
+}
+
+.top-banner{
+	background-image: url(top-banner.png);
+	background-repeat: no-repeat;
+
+
+
+}
