@@ -25,12 +25,13 @@ h1{
 section
 {
 	display: flex;
+	margin-bottom: 110px;
 }
 .photo{
 
 	width: 100%;
 
-	padding-left: 15%;
+	padding-left: 5%;
 }
 
 .photo img{
@@ -55,5 +56,13 @@ section
 	background-repeat: no-repeat;
 
 
+
+}
+
+
+.big-dream{
+	background-image: url(dream-bg.png);
+	background-repeat: no-repeat;
+	background-position: right;
 
 }
